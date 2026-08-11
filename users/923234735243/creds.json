@@ -58,6 +58,26 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786426529
+    },
+    {
+      "key": {
+        "remoteJid": "923234735243@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A538216FE46B3B0A91E3C24D72212AE6",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786426529
+    },
+    {
+      "key": {
+        "remoteJid": "923234735243@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5ED4F9E5E3E45CB34B38A3F9A113B72",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786426531
     }
   ],
   "nextPreKeyId": 813,
