@@ -59,7 +59,8 @@
   "pairingCode": "HLZCL5N4",
   "me": {
     "id": "923148840921:94@s.whatsapp.net",
-    "lid": "276527728078913:94@lid"
+    "lid": "276527728078913:94@lid",
+    "name": "وَلَدٌ حَزِين 🍸"
   },
   "account": {
     "details": "CPz43ukEEMe26tMGGAEgACgA",
@@ -84,5 +85,7 @@
     "type": "Buffer",
     "data": "CAUIAggN"
   },
-  "lastAccountSyncTimestamp": 1786420054
+  "lastAccountSyncTimestamp": 1786420054,
+  "lastPropHash": "3ajMVB",
+  "myAppStateKeyId": "AAAAAJgw"
 }
