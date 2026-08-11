@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "BBVB743C",
   "me": {
-    "id": "923237045919@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923237045919:24@s.whatsapp.net",
+    "lid": "131065742127234:24@lid"
+  },
+  "account": {
+    "details": "CLSq3qYBEKbc6tMGGAEgACgA",
+    "accountSignatureKey": "wm8WHROcirXS01I0nQ10L8Tqv05JpoyYK/tVwhQbUk0=",
+    "accountSignature": "T6olLSqme9IYvuB+2wEryW/0t2m+Hfrf8IDNMmcUsKtinEx8+FXDH3CAeR07x7D+27Jr5O69HBwfVazojnAtDw==",
+    "deviceSignature": "jL4zd0uob817syudftm4gLRCQarrYFaA0seKPLvNJ3DTeupfno2N+K6Dsu/P5/KRpp3O+CVop0IztYUXOsZnjg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "131065742127234:24@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BcJvFh0TnIq10tNSNJ0NdC/E6r9OSaaMmCv7VcIUG1JN"
+      }
+    }
+  ],
+  "platform": "android"
 }
