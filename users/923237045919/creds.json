@@ -58,11 +58,31 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786424897
+    },
+    {
+      "key": {
+        "remoteJid": "923237045919@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC7ADE9B05307AFA6431384A0056A815",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786424897
+    },
+    {
+      "key": {
+        "remoteJid": "923237045919@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC835401F95512E63335CE6E9C6B782B",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786424898
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +90,8 @@
   "pairingCode": "BBVB743C",
   "me": {
     "id": "923237045919:24@s.whatsapp.net",
-    "lid": "131065742127234:24@lid"
+    "lid": "131065742127234:24@lid",
+    "name": "LifeJustMagic✨"
   },
   "account": {
     "details": "CLSq3qYBEKbc6tMGGAEgACgA",
