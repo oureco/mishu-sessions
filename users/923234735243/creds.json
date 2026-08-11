@@ -49,8 +49,8 @@
   "registrationId": 76,
   "advSecretKey": "/WFEfntUwuJcqb8+JVxmRPuLq1vqLgj6HvG9zzs22Y4=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 813,
+  "firstUnuploadedPreKeyId": 813,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
