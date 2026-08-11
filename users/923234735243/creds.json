@@ -1,0 +1,64 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "mP1VoyyuZsP/naMyd5XJhIWXaRuux//8Aq3YGkKyyEg="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "cM8I1R6Gsz3dGxzdRrBpxCAgSSRPPRvJB/AtjFw3hAs="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "oMxLsV+RMgd/xen5LTfirVUEsqRv7/M1P4OJFIQKLEA="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "xks/I+u+WPvk+FIkmD13POZmXbiDSHQXtBDxBI6X3TU="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "iOabl/grfjKU3L7rPmDW6HO/FLqYlFP6NzAUVVnls1c="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "51licbj4fAcDEJMmSig/8RBkp47NWoWDR1KzZ5VllDc="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "0OrWt9E432BoTLPXUu/N3V1KiNMO5ltMbPdb+SuYRlo="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "yUCGF5NuyqjE23eEUZjwp89hTknfmSNqO5lGBQqus3M="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "D368FZ5RDyuaqxfD+l58tEp8IDeEudnxGSX4gqiZ7NK85S3nHlO0XgVqBU9c3aMiicBNrqwmcd0jU4g0TduyBg=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 152,
+  "advSecretKey": "WILc4MqqXYFaf/KuQEC7g+fUpugeOeAWSGXuSJzsQpo=",
+  "processedHistoryMessages": [],
+  "nextPreKeyId": 1,
+  "firstUnuploadedPreKeyId": 1,
+  "accountSyncCounter": 0,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "FAK8RDZ9",
+  "me": {
+    "id": "923234735243@s.whatsapp.net",
+    "name": "~"
+  }
+}
