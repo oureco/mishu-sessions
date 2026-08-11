@@ -58,11 +58,41 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786442103
+    },
+    {
+      "key": {
+        "remoteJid": "923234735243@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A56986748D0DCB8D7E2C99A49DAFF264",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786442104
+    },
+    {
+      "key": {
+        "remoteJid": "923234735243@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A59C8B37314097E62531F1B8D4FD238A",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786442104
+    },
+    {
+      "key": {
+        "remoteJid": "923234735243@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5F2EF17081B2995884272FB6A3B12B1",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786442124
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
