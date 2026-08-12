@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "MYACPDA2",
   "me": {
-    "id": "923237045919@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923237045919:28@s.whatsapp.net",
+    "lid": "131065742127234:28@lid"
+  },
+  "account": {
+    "details": "CLiq3qYBEMOQ8tMGGAEgACgA",
+    "accountSignatureKey": "wm8WHROcirXS01I0nQ10L8Tqv05JpoyYK/tVwhQbUk0=",
+    "accountSignature": "TUKW6//36WB1FYJ3CEL3esYmrdhl8gm28fsK7FuF0ndalmgk5yboW90tvdMFVlm+TXFSkd3w2oO1PCTCfaQBAA==",
+    "deviceSignature": "uizXoZz6jUIUk2gRGsC1Fv5zTcGvivMrWvDeXOZDoC0mlVSop/BmVn8fifJt+WR6gGBHFp0EIPpj0akwKAECiw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "131065742127234:28@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BcJvFh0TnIq10tNSNJ0NdC/E6r9OSaaMmCv7VcIUG1JN"
+      }
+    }
+  ],
+  "platform": "android"
 }
