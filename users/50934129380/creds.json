@@ -58,11 +58,21 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786547915
+    },
+    {
+      "key": {
+        "remoteJid": "50934129380@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3ADD924E4F9F93956870",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786547956
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +80,8 @@
   "pairingCode": "46MALDJY",
   "me": {
     "id": "50934129380:25@s.whatsapp.net",
-    "lid": "5820267925575:25@lid"
+    "lid": "5820267925575:25@lid",
+    "name": "♉️🖤WO~G~BOY♉️🖤"
   },
   "account": {
     "details": "CIfsyAQQrZ3y0wYYASAAKAA=",
