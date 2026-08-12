@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "SAWH42G2",
   "me": {
-    "id": "923073660479@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923073660479:1@s.whatsapp.net",
+    "name": "SHANZAY",
+    "lid": "110535798468633:1@lid"
+  },
+  "account": {
+    "details": "CMqqxtsCEK278dMGGAIgASgA",
+    "accountSignatureKey": "vhT+HZ40T5IG+KNk3Rvjje0nRQUDvvrDscsryygy+zw=",
+    "accountSignature": "KtjpJPOvSp55xJi1SLGq1JuntjiNdsG7VzarR7617N3D+L1erGQMj1Jln/5IQTMF+J0id7ge5erk0GSTsyYjCw==",
+    "deviceSignature": "STQ3v0X08CVBIXo4UQoBTpctlmj9uwi/Mh8icxeTxSVwq3J4BWkHh3sMipE24ptLqBNw3wClacsVbKFD8Juxiw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "110535798468633:1@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bb4U/h2eNE+SBvijZN0b443tJ0UFA776w7HLK8soMvs8"
+      }
+    }
+  ],
+  "platform": "smba"
 }
