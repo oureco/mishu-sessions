@@ -49,8 +49,8 @@
   "registrationId": 131,
   "advSecretKey": "tzWODawZicWyYHUk4t9G1GVPsOnOHqo0/5WKgK+pqsY=",
   "processedHistoryMessages": [],
-  "nextPreKeyId": 1,
-  "firstUnuploadedPreKeyId": 1,
+  "nextPreKeyId": 813,
+  "firstUnuploadedPreKeyId": 813,
   "accountSyncCounter": 0,
   "accountSettings": {
     "unarchiveChats": false
@@ -85,5 +85,6 @@
     "type": "Buffer",
     "data": "CBIICAgC"
   },
-  "lastAccountSyncTimestamp": 1786520019
+  "lastAccountSyncTimestamp": 1786520019,
+  "lastPropHash": "3RfJEV"
 }
