@@ -58,11 +58,31 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786508880
+    },
+    {
+      "key": {
+        "remoteJid": "6285178295510@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC20FFCA0DABD975971737B3A00B3E49",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786508880
+    },
+    {
+      "key": {
+        "remoteJid": "6285178295510@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC8FD1869F0A6289FF9AC4BEB1256D55",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786508887
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +90,8 @@
   "pairingCode": "F6R2KDQR",
   "me": {
     "id": "6285178295510:4@s.whatsapp.net",
-    "lid": "141979421831235:4@lid"
+    "lid": "141979421831235:4@lid",
+    "name": "𝑻𝒉𝒗𝒏𝒐𝒕𝒅𝒆𝒗𝟏𝟏𝟗"
   },
   "account": {
     "details": "CMG7kPUHELzs79MGGAEgACgA",
