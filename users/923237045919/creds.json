@@ -78,6 +78,16 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786546263
+    },
+    {
+      "key": {
+        "remoteJid": "923237045919@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC8A9F105277C48CDF7B6B5FE2828214",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786546279
     }
   ],
   "nextPreKeyId": 813,
@@ -90,7 +100,8 @@
   "pairingCode": "MYACPDA2",
   "me": {
     "id": "923237045919:28@s.whatsapp.net",
-    "lid": "131065742127234:28@lid"
+    "lid": "131065742127234:28@lid",
+    "name": "LifeJustMagic✨"
   },
   "account": {
     "details": "CLiq3qYBEMOQ8tMGGAEgACgA",
