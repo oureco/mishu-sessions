@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "6ZFFK3LV",
   "me": {
-    "id": "50933255663@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "50933255663:6@s.whatsapp.net",
+    "name": "Le Sinistre",
+    "lid": "75476114657416:6@lid"
+  },
+  "account": {
+    "details": "CMSVgd0HEJ2p8tMGGAEgACgA",
+    "accountSignatureKey": "ynd6i++/4W1pCqDppNopOKGSOMH3GZB2bBaw1AQG9y4=",
+    "accountSignature": "70g1XTXTZQlb9RVps4OfDPaemA/V5+j5L0whRfG7T3vR0Dtb8k6/XGood8cOoDbo0DItJ9fOD6Si1v8ctHCMAQ==",
+    "deviceSignature": "nR5SaA8IN3yA3USbXnQ6GJVGJOwBNm4XVM676qCUV5Asejzr+0ot2Gn9vkhDZmw50QBpTKAfM4saDoo7hYn0Ag=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "75476114657416:6@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bcp3eovvv+FtaQqg6aTaKTihkjjB9xmQdmwWsNQEBvcu"
+      }
+    }
+  ],
+  "platform": "smbi"
 }
