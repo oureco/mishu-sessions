@@ -62,7 +62,7 @@
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +70,8 @@
   "pairingCode": "TVF8G3MS",
   "me": {
     "id": "923118456830:20@s.whatsapp.net",
-    "lid": "214255064330481:20@lid"
+    "lid": "214255064330481:20@lid",
+    "name": "†ɦƏ 𝗳† 𝗦𝘆Ə𝗱"
   },
   "account": {
     "details": "CIGsmIICEL6P8NMGGAUgACgA",
