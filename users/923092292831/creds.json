@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "WXL5C655",
   "me": {
-    "id": "923092292831@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923092292831:3@s.whatsapp.net",
+    "lid": "206133465768093:3@lid"
+  },
+  "account": {
+    "details": "COjUyJcGEPvH8dMGGAIgACgA",
+    "accountSignatureKey": "tRZ3TkSe4kKnurZq1vsnr6GptWK0y2V11ja5AtZCrxQ=",
+    "accountSignature": "sS8kj8lj9xWknb1QCkPHhBgeBzNsjKskM6S3XcqgHjtUSCrOBoDjvGCsMTBhQFETSsHQEo3UBc3HMgTuT3T1BA==",
+    "deviceSignature": "ox2aoYCugdyhVzOnu7k1L5AUftgumRWqrQvfjaJh9GcjT90OZeLIhnswMezIveirOava4P7sP0mfmaK/ufkXCg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "206133465768093:3@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BbUWd05EnuJCp7q2atb7J6+hqbVitMtlddY2uQLWQq8U"
+      }
+    }
+  ],
+  "platform": "android"
 }
