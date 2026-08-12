@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "CSAVKG89",
   "me": {
-    "id": "2349126369087@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "2349126369087:27@s.whatsapp.net",
+    "name": "亗 ʜᴀᴍ・ᴍᴀsᴛᴇʀ 亗",
+    "lid": "153451262640192:27@lid"
+  },
+  "account": {
+    "details": "CKP08+YDEL+L8NMGGAIgACgA",
+    "accountSignatureKey": "0oleFlJEgVuG+PB41EtOGAQxPIXlSvOIC/Y98soPN0s=",
+    "accountSignature": "XaiMPCXxU76dOswIJ9nd8252Ka8/HOxlG6MghqqtStdQB5qGNylHKI1eDlorDSR3ohrbNsydgATAlzGFRwVoCg==",
+    "deviceSignature": "J8Qep0FCzGkHyfmJPngCUgvqEuBw//FMUlRG0Z7abkWO7QD8O4/92vls9cklz3ogWdZuvXo7kxVa3VGC9NFkjw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "153451262640192:27@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BdKJXhZSRIFbhvjweNRLThgEMTyF5UrziAv2PfLKDzdL"
+      }
+    }
+  ],
+  "platform": "smba"
 }
