@@ -48,10 +48,61 @@
   },
   "registrationId": 130,
   "advSecretKey": "PLObPnpLM4WUSvgbKiD4l47GjyKcf4bXtdb/FbxX3Hs=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "2349126369087@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A50D32E2CD99EE1D3258F2B1391754F9",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786512852
+    },
+    {
+      "key": {
+        "remoteJid": "2349126369087@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A57E3D6724A2B7B34E2D830FD05FC521",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786512853
+    },
+    {
+      "key": {
+        "remoteJid": "2349126369087@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A50392903122B2992F9503A521186BFD",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786512853
+    },
+    {
+      "key": {
+        "remoteJid": "2349126369087@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5928C01218E6D0A1BF23E1C81F08C65",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786512853
+    },
+    {
+      "key": {
+        "remoteJid": "2349126369087@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A59B6300B9D7A82728652BCA439304A9",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786512860
+    }
+  ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": true
   },
