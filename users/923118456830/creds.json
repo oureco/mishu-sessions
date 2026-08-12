@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "TVF8G3MS",
   "me": {
-    "id": "923118456830@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923118456830:20@s.whatsapp.net",
+    "lid": "214255064330481:20@lid"
+  },
+  "account": {
+    "details": "CIGsmIICEL6P8NMGGAUgACgA",
+    "accountSignatureKey": "dPBLBUaLAyUv50dnKynAwk7Dru8Vf+beVu8s7Df9fkM=",
+    "accountSignature": "9163GLB3HupGQy7scateQtc+w6sLuB1HxsBuUukGitsmDEvrn409RbS2T/FC7IGDCA/OTo2/I1gHQnX/3qanCQ==",
+    "deviceSignature": "C6JWXuobCd7bSw5bk90GTK6uCCLXBiLeqQrIsdSNQ9jiwq0N/07JkKq1IiZEtfUh7d9HjpyORkJxMxVH1oRaiQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "214255064330481:20@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXTwSwVGiwMlL+dHZyspwMJOw67vFX/m3lbvLOw3/X5D"
+      }
+    }
+  ],
+  "platform": "android"
 }
