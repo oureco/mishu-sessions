@@ -84,5 +84,7 @@
     "type": "Buffer",
     "data": "CA0IEggF"
   },
-  "lastAccountSyncTimestamp": 1786512082
+  "lastAccountSyncTimestamp": 1786512082,
+  "lastPropHash": "3l7dEv",
+  "myAppStateKeyId": "AAAAAFyh"
 }
