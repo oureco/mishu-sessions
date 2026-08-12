@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "F7TGW6HL",
   "me": {
-    "id": "923237045919@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923237045919:26@s.whatsapp.net",
+    "lid": "131065742127234:26@lid"
+  },
+  "account": {
+    "details": "CLaq3qYBEMKF8NMGGAEgACgA",
+    "accountSignatureKey": "wm8WHROcirXS01I0nQ10L8Tqv05JpoyYK/tVwhQbUk0=",
+    "accountSignature": "acer1T8Xn/NS0Ys39SeyKp722RQrwxh2k9sjUAjv52oCdHeRA72XtnaOuKgsQftJzIiOTlF9W8J3Ion4gT0DAA==",
+    "deviceSignature": "2gUF6OlHwvdJcvodLIxBPshwE9pQmUQ82fv2Ffpzt/MMCPNmDi83RmwDPe2Oo3vVGT4Fa8rcQCKtbF80m6CpAg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "131065742127234:26@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BcJvFh0TnIq10tNSNJ0NdC/E6r9OSaaMmCv7VcIUG1JN"
+      }
+    }
+  ],
+  "platform": "android"
 }
