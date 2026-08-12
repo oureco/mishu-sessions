@@ -58,11 +58,21 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786571137
+    },
+    {
+      "key": {
+        "remoteJid": "2347072385394@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3A6B924D7EF966C39CF0",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786571138
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -96,5 +106,6 @@
     "data": "CBIICAgF"
   },
   "lastAccountSyncTimestamp": 1786571136,
-  "myAppStateKeyId": "AAAAACQ7"
+  "myAppStateKeyId": "AAAAACQ7",
+  "lastPropHash": "msSg0"
 }
