@@ -53,7 +53,7 @@
   "firstUnuploadedPreKeyId": 813,
   "accountSyncCounter": 0,
   "accountSettings": {
-    "unarchiveChats": false
+    "unarchiveChats": true
   },
   "registered": true,
   "pairingCode": "CSAVKG89",
@@ -85,5 +85,7 @@
     "type": "Buffer",
     "data": "CAgIBQgN"
   },
-  "lastAccountSyncTimestamp": 1786512850
+  "lastAccountSyncTimestamp": 1786512850,
+  "myAppStateKeyId": "AAAAAO7u",
+  "lastPropHash": "4W5zkn"
 }
