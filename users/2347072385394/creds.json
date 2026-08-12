@@ -79,5 +79,10 @@
       }
     }
   ],
-  "platform": "iphone"
+  "platform": "iphone",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CBIICAgF"
+  },
+  "lastAccountSyncTimestamp": 1786571136
 }
