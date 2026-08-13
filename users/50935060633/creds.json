@@ -110,8 +110,8 @@
       "messageTimestamp": 1786586003
     }
   ],
-  "nextPreKeyId": 937,
-  "firstUnuploadedPreKeyId": 937,
+  "nextPreKeyId": 942,
+  "firstUnuploadedPreKeyId": 942,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -144,7 +144,7 @@
   "platform": "android",
   "routingInfo": {
     "type": "Buffer",
-    "data": "CAkIDQgL"
+    "data": "CAUIDQgC"
   },
   "lastAccountSyncTimestamp": 1786586050,
   "lastPropHash": "1iasGR",
