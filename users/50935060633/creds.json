@@ -68,10 +68,20 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786585946
+    },
+    {
+      "key": {
+        "remoteJid": "50935060633@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC702CC416123777C6717387845C9D74",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786585946
     }
   ],
-  "nextPreKeyId": 813,
-  "firstUnuploadedPreKeyId": 813,
+  "nextPreKeyId": 814,
+  "firstUnuploadedPreKeyId": 814,
   "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
@@ -80,7 +90,8 @@
   "pairingCode": "T869D7H1",
   "me": {
     "id": "50935060633:6@s.whatsapp.net",
-    "lid": "22905681395729:6@lid"
+    "lid": "22905681395729:6@lid",
+    "name": "𓄂⍣⃝❄️👑 𝐏𝐒𝐂 𝐀𝐊𝐀𝐙𝐀 👑❄️𓄂"
   },
   "account": {
     "details": "CK2AzIQDEMPG9NMGGAEgACgA",
