@@ -58,11 +58,21 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786579342
+    },
+    {
+      "key": {
+        "remoteJid": "252614687651@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ACACA27AEC12CB5B569E8034EE707B78",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786579347
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +80,8 @@
   "pairingCode": "55P1G7R5",
   "me": {
     "id": "252614687651:19@s.whatsapp.net",
-    "lid": "180110057582631:19@lid"
+    "lid": "180110057582631:19@lid",
+    "name": "A̶A̶B̶O̶⭕⃝M̶O̶KI̶S̶H̶🖐️☠️🫶"
   },
   "account": {
     "details": "CNW69N4BEPKS9NMGGAIgACgA",
