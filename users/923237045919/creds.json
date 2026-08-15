@@ -48,7 +48,18 @@
   },
   "registrationId": 109,
   "advSecretKey": "Vz2klfBMVUgVKMSh2HUQfG1ZpNUqKuXhoSvHJpQIho4=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "923237045919@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ACA889639A5E677E90E16E250215D396",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786762930
+    }
+  ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
   "accountSyncCounter": 0,
@@ -59,7 +70,8 @@
   "pairingCode": "X3EEX94C",
   "me": {
     "id": "923237045919:31@s.whatsapp.net",
-    "lid": "131065742127234:31@lid"
+    "lid": "131065742127234:31@lid",
+    "name": "LifeJustMagic✨"
   },
   "account": {
     "details": "CLuq3qYBEJ6t/9MGGAEgACgA",
@@ -84,5 +96,7 @@
     "type": "Buffer",
     "data": "CA0IEggF"
   },
-  "lastAccountSyncTimestamp": 1786762925
+  "lastAccountSyncTimestamp": 1786762925,
+  "lastPropHash": "2bZhZi",
+  "myAppStateKeyId": "AAAAAL3E"
 }
