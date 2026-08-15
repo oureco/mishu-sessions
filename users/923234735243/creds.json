@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "VN6D2YDY",
   "me": {
-    "id": "923234735243@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923234735243:33@s.whatsapp.net",
+    "name": "lifejustmagic",
+    "lid": "104823592644747:33@lid"
+  },
+  "account": {
+    "details": "CO7bw4kCEIvogNQGGAEgACgA",
+    "accountSignatureKey": "P0rUa1CJQ0PB2nYIMTA53EfFhbo8AgVFVF88+pGThz4=",
+    "accountSignature": "CE374nK7Sb74T8utfnzlfFlaW8gxsvdsVJ/PTuQ4Bs/XIAbJXxaw8umQenBOk0v9wlz+du7QQawfP69VFG4kAA==",
+    "deviceSignature": "x6iQ0jhUlVk1fXen28DoTKnqXQrWFCrppy6qwtB/YamxDt6OAgfgPhTo94qw0WDyeKecXeFNNcWkj+fMclzvhA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "104823592644747:33@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BT9K1GtQiUNDwdp2CDEwOdxHxYW6PAIFRVRfPPqRk4c+"
+      }
+    }
+  ],
+  "platform": "smba"
 }
