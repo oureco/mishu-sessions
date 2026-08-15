@@ -84,5 +84,7 @@
     "type": "Buffer",
     "data": "CAIICAgN"
   },
-  "lastAccountSyncTimestamp": 1786793585
+  "lastAccountSyncTimestamp": 1786793585,
+  "lastPropHash": "3gqo9D",
+  "myAppStateKeyId": "AAAAAGN0"
 }
