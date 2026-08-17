@@ -62,7 +62,7 @@
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +70,8 @@
   "pairingCode": "MLP73155",
   "me": {
     "id": "923186741918:9@s.whatsapp.net",
-    "lid": "27174744666220:9@lid"
+    "lid": "27174744666220:9@lid",
+    "name": "🥀ᴅᴀɴɪsʜ ᴀʙʙᴀs🥀"
   },
   "account": {
     "details": "CMzm3t4EEJLki9QGGAggACgA",
