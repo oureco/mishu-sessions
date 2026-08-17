@@ -58,11 +58,21 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1786947356
+    },
+    {
+      "key": {
+        "remoteJid": "923013050530@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC1E6290D28765725E6ECF2CEA2C3D23",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1786947356
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +80,8 @@
   "pairingCode": "MDQPNQWT",
   "me": {
     "id": "923013050530:76@s.whatsapp.net",
-    "lid": "103341912801351:76@lid"
+    "lid": "103341912801351:76@lid",
+    "name": "Ammar Rai"
   },
   "account": {
     "details": "CLvMzsYBEIXOitQGGAEgACgA",
