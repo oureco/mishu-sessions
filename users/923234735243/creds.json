@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "WT7N21DK",
   "me": {
-    "id": "923234735243@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923234735243:34@s.whatsapp.net",
+    "name": "lifejustmagic",
+    "lid": "104823592644747:34@lid"
+  },
+  "account": {
+    "details": "CO/bw4kCEOLPidQGGAEgACgA",
+    "accountSignatureKey": "P0rUa1CJQ0PB2nYIMTA53EfFhbo8AgVFVF88+pGThz4=",
+    "accountSignature": "v52KuU71w5qcYIRmDHrdR1Za1KDjoK6NZ6o2Uz1xI99aDIfIubRRYJGlaREpHjfLM2CmEcq0tLzwo+rt9/TvCQ==",
+    "deviceSignature": "VrbC2KiUOXz3En+nqEB6Um3F3jkx5mG76CxFZAn9nML0P2HOLoyjG/TZDreS1nJl9EQ2UQgisn1xzbKnncguBg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "104823592644747:34@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BT9K1GtQiUNDwdp2CDEwOdxHxYW6PAIFRVRfPPqRk4c+"
+      }
+    }
+  ],
+  "platform": "smba"
 }
