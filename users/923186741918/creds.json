@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "MLP73155",
   "me": {
-    "id": "923186741918@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923186741918:9@s.whatsapp.net",
+    "lid": "27174744666220:9@lid"
+  },
+  "account": {
+    "details": "CMzm3t4EEJLki9QGGAggACgA",
+    "accountSignatureKey": "VRlawkqKAVr2OksjewSm1qtk7TqHjMSbpVOuecHYXH4=",
+    "accountSignature": "JDJeMPRAL/4CL5n8K8bNi6wrbrYI7eWUz6NAndj5DLKYQFkzTQ6YLOiEnToxAlPY109dMw55Db/l1zxVOHHeBg==",
+    "deviceSignature": "jacI9yOf3XFwCz8Xq9QwmhiSobpa/IKDcXpFjEvFwAbVz+dArqrZFar0z+E2am2VDGRqgWmEdaQE8TEvy973hw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "27174744666220:9@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BVUZWsJKigFa9jpLI3sEptarZO06h4zEm6VTrnnB2Fx+"
+      }
+    }
+  ],
+  "platform": "android"
 }
