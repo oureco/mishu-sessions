@@ -68,6 +68,26 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1787067329
+    },
+    {
+      "key": {
+        "remoteJid": "923118456830@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC71240EC533FF36D9D562EE6F25B204",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1787067329
+    },
+    {
+      "key": {
+        "remoteJid": "923118456830@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC6622338817DAD293C0897B662C63FA",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1787067330
     }
   ],
   "nextPreKeyId": 813,
@@ -80,7 +100,8 @@
   "pairingCode": "KQHPSN7X",
   "me": {
     "id": "923118456830:24@s.whatsapp.net",
-    "lid": "214255064330481:24@lid"
+    "lid": "214255064330481:24@lid",
+    "name": "𝆺꯭𝅥 Ɱ᥅ 𝛅ⴙɑ͢ⴙ ༗"
   },
   "account": {
     "details": "CIOsmIICEK33kdQGGAEgACgA",
