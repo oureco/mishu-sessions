@@ -98,6 +98,16 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1787105316
+    },
+    {
+      "key": {
+        "remoteJid": "923237045919@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ACE459BEA846CC838E3BD624BFB0BF2C",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1787105323
     }
   ],
   "nextPreKeyId": 813,
