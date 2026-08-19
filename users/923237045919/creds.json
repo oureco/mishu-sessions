@@ -62,7 +62,7 @@
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
@@ -70,7 +70,8 @@
   "pairingCode": "T3WKXQ3D",
   "me": {
     "id": "923237045919:34@s.whatsapp.net",
-    "lid": "131065742127234:34@lid"
+    "lid": "131065742127234:34@lid",
+    "name": "LifeJustMagic✨"
   },
   "account": {
     "details": "CL6q3qYBEIKglNQGGAEgACgA",
