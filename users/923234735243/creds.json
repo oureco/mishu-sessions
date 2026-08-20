@@ -47,7 +47,7 @@
     "keyId": 1
   },
   "registrationId": 44,
-  "advSecretKey": "2m2dUo+l1qJctVQqvLSWmxGL/Izlx1N7gE3CizrcDKQ=",
+  "advSecretKey": "vHt/v8/wvSPOsceY/UCxd8LhsXxVAalSKfL863VCOJs=",
   "processedHistoryMessages": [],
   "nextPreKeyId": 1,
   "firstUnuploadedPreKeyId": 1,
@@ -55,7 +55,7 @@
   "accountSettings": {
     "unarchiveChats": false
   },
-  "registered": false,
+  "registered": true,
   "pairingCode": "XXD9972P",
   "me": {
     "id": "923234735243@s.whatsapp.net",
