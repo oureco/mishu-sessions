@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "LTCL5XW1",
   "me": {
-    "id": "923092292831@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923092292831:5@s.whatsapp.net",
+    "name": "𝗦𝘆Ə𝗱",
+    "lid": "206133465768093:5@lid"
+  },
+  "account": {
+    "details": "COWv688GEI6RnNQGGAwgASgA",
+    "accountSignatureKey": "qr1HNhQEaOtv0yOAgaz7S74LlC/oScPO755EkT/p8Fw=",
+    "accountSignature": "wzA2H4GcarGk1yKZXvgAk0ToqQdEYkba73iwMZ6oY1/1/Dgskq4u+74Sr9HlEbuZesloQ20INDv+Mm0QowQyAQ==",
+    "deviceSignature": "u6rcfL/uetc4NqqV8DWYMoZSfW4stQPsBaRy/vbK5RhNmva38ddMK/oN0IVRXnMhAsWDQtPP+dV9tvElppKZCw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "206133465768093:5@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Baq9RzYUBGjrb9MjgIGs+0u+C5Qv6EnDzu+eRJE/6fBc"
+      }
+    }
+  ],
+  "platform": "smba"
 }
