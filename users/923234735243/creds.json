@@ -164,9 +164,9 @@
   "platform": "smba",
   "routingInfo": {
     "type": "Buffer",
-    "data": "CBIICAgC"
+    "data": "CAkIAwgI"
   },
-  "lastAccountSyncTimestamp": 1787200321,
+  "lastAccountSyncTimestamp": 1787201849,
   "lastPropHash": "4a5Nrw",
   "myAppStateKeyId": "AAAAAFoh"
 }
