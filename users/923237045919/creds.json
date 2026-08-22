@@ -88,6 +88,16 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1787415440
+    },
+    {
+      "key": {
+        "remoteJid": "923237045919@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC6A63601B12F19D9E8FE4F32BA4DA5B",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1787415451
     }
   ],
   "nextPreKeyId": 813,
@@ -100,7 +110,8 @@
   "pairingCode": "CA4WRYGJ",
   "me": {
     "id": "923237045919:37@s.whatsapp.net",
-    "lid": "131065742127234:37@lid"
+    "lid": "131065742127234:37@lid",
+    "name": "LifeJustMagic✨"
   },
   "account": {
     "details": "CMGq3qYBEPqWp9QGGAEgACgA",
