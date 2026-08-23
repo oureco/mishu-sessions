@@ -74,7 +74,7 @@
   "firstUnuploadedPreKeyId": 813,
   "accountSyncCounter": 1,
   "accountSettings": {
-    "unarchiveChats": false
+    "unarchiveChats": true
   },
   "registered": true,
   "pairingCode": "GT9ZK3Y8",
