@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "8MMHEVZC",
   "me": {
-    "id": "917905793097@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "917905793097:24@s.whatsapp.net",
+    "name": "Queen Priyanka",
+    "lid": "12718086062143:24@lid"
+  },
+  "account": {
+    "details": "COzD1VcQ09/G1AYYBSAAKAA=",
+    "accountSignatureKey": "AeeC3teLcnicLo2ZnC4XlTTejWFZXD/1mQEUvbWL6n0=",
+    "accountSignature": "kpGTgx1TI0EZrRiTfv4BCL/Xr+Pmdalo28S0MobzJsWjpAvCdDXZ9aihOT82SBrEFqHScT6nI9S5iqsHdALRAQ==",
+    "deviceSignature": "WAc3U2o2Nyvd2olOAukCWUA2qRIf8LeXhxUxqaquTX/QjUdNRAUogzWA/TBKLDBrMK3vrO1o5AVtPf+k2pfkDg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "12718086062143:24@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BQHngt7Xi3J4nC6NmZwuF5U03o1hWVw/9ZkBFL21i+p9"
+      }
+    }
+  ],
+  "platform": "smba"
 }
