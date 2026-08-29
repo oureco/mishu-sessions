@@ -68,6 +68,26 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1787963197
+    },
+    {
+      "key": {
+        "remoteJid": "923392616263@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC63AC612BFAEBED948E7F127E323B7C",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1787963197
+    },
+    {
+      "key": {
+        "remoteJid": "923392616263@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ACC8289DDF1EC8174DA3B033D532458D",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1787963197
     }
   ],
   "nextPreKeyId": 813,
@@ -80,7 +100,8 @@
   "pairingCode": "J8NR2S24",
   "me": {
     "id": "923392616263:4@s.whatsapp.net",
-    "lid": "163089085427896:4@lid"
+    "lid": "163089085427896:4@lid",
+    "name": "LifejustAmagic"
   },
   "account": {
     "details": "CNewtYQHEKrOyNQGGAEgACgA",
