@@ -58,11 +58,21 @@
         "addressingMode": "pn"
       },
       "messageTimestamp": 1787963196
+    },
+    {
+      "key": {
+        "remoteJid": "923392616263@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ACC033007F35BEDA19A5DB6D68E397D2",
+        "participant": "",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1787963197
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
