@@ -78,6 +78,16 @@
         "addressingMode": "lid"
       },
       "messageTimestamp": 1788610737
+    },
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "AC94104BFC0133055E6053A56E992C5A",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1788610743
     }
   ],
   "nextPreKeyId": 813,
