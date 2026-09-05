@@ -58,7 +58,26 @@
   "registered": true,
   "pairingCode": "JW87X797",
   "me": {
-    "id": "923392616263@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923392616263:6@s.whatsapp.net",
+    "lid": "163089085427896:6@lid"
+  },
+  "account": {
+    "details": "CNKiiqoDEJ+R8NQGGAEgACgA",
+    "accountSignatureKey": "lKLilLMV4xPp7+7AcvQvr8byjhaoKLK330aJq+U0UxU=",
+    "accountSignature": "ZbssHl81BHSecRBZuxTst2+Nx+pYsUyXyqjrPRSl2eNY8jZAnDhaRN7Z06uiDqLQZDEPlWc3DBtmWEx412GUAQ==",
+    "deviceSignature": "u4RIpSTQPJQXZVpQjRhpgeYJNjwu9Aec9erXz1YIX2AijuwSvNJzjPosDmu0ROkmqOsr28mdSWf+LcexqhMLCw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "163089085427896:6@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BZSi4pSzFeMT6e/uwHL0L6/G8o4WqCiyt99GiavlNFMV"
+      }
+    }
+  ],
+  "platform": "android"
 }
