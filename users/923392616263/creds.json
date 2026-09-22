@@ -58,11 +58,41 @@
         "addressingMode": "lid"
       },
       "messageTimestamp": 1790080650
+    },
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "A57D612C5871E6C3ABE54235C08B1FE5",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1790080650
+    },
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "A5912A96064F406048DEDCA6C0A887C1",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1790080650
+    },
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "A5F282C1CCDF5CE6829535316D6387AB",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1790080651
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
