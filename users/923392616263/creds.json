@@ -78,6 +78,26 @@
         "addressingMode": "lid"
       },
       "messageTimestamp": 1790082035
+    },
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "A57B3CD15AD51F2DBE2BB5262177D739",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1790082035
+    },
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "A555B32EEBE0FB86E1F89364C2011FED",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1790082048
     }
   ],
   "nextPreKeyId": 813,
