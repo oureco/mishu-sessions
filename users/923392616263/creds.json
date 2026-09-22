@@ -48,7 +48,18 @@
   },
   "registrationId": 247,
   "advSecretKey": "uSvf1IsolYu8hir5fzQNm8ulsl+SM5chiJ6M5wbIzkk=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "A5027CEE6CFDCAF1771B3A303B647A67",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1790083530
+    }
+  ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
   "accountSyncCounter": 0,
@@ -85,5 +96,7 @@
     "type": "Buffer",
     "data": "CAIIDQgI"
   },
-  "lastAccountSyncTimestamp": 1790083527
+  "lastAccountSyncTimestamp": 1790083527,
+  "lastPropHash": "3lrRy6",
+  "myAppStateKeyId": "AAAAALZJ"
 }
