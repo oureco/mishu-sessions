@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "7HN3T61A",
   "me": {
-    "id": "923392616263@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923392616263:11@s.whatsapp.net",
+    "name": "devarslan",
+    "lid": "163089085427896:11@lid"
+  },
+  "account": {
+    "details": "COyZ9LUEELiDytUGGAEgACgA",
+    "accountSignatureKey": "fMOS+yhMx5cNZTMggNfMgravR8zxb2Z8BMYn1z9Y/zE=",
+    "accountSignature": "omO2NRMcIBdMxMOtSFbV0BqM5s0j2tSisX7O6rTnwP2thF7hwe70JR9TZSwhKjEJAv5ts1czofP94cAnGbjEAQ==",
+    "deviceSignature": "4+X1QpOcxhEDb7ZLxHSqGOlziQJkG1tHe75AlpYsDdxZ16dN+fpEuMPUfFpceiYKPnx1C3zNPHO4xurvCmv0CA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "163089085427896:11@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXzDkvsoTMeXDWUzIIDXzIK2r0fM8W9mfATGJ9c/WP8x"
+      }
+    }
+  ],
+  "platform": "smba"
 }
