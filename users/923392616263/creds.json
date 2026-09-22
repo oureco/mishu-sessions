@@ -58,7 +58,27 @@
   "registered": true,
   "pairingCode": "MGVKAFNH",
   "me": {
-    "id": "923392616263@s.whatsapp.net",
-    "name": "~"
-  }
+    "id": "923392616263:7@s.whatsapp.net",
+    "name": "devarslan",
+    "lid": "163089085427896:7@lid"
+  },
+  "account": {
+    "details": "COiZ9LUEEMDRydUGGAEgACgA",
+    "accountSignatureKey": "fMOS+yhMx5cNZTMggNfMgravR8zxb2Z8BMYn1z9Y/zE=",
+    "accountSignature": "IVbiAziSz3ZML6J087OFMl9rLFwJlNwSwJrznikzNLL5Ey/tHRS9yIlT59k+7mNWYwGStLlgzBz/JhdX84JkAw==",
+    "deviceSignature": "E3SF619USPBrQSC4HqpZzmsdnng4rSdZ0G0A7Ii+qBaagBIS6vKTZ9uNkMRHbXy9hCA5qsk/JuuGVklj6413jA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "163089085427896:7@lid",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BXzDkvsoTMeXDWUzIIDXzIK2r0fM8W9mfATGJ9c/WP8x"
+      }
+    }
+  ],
+  "platform": "smba"
 }
