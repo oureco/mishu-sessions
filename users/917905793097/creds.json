@@ -58,11 +58,21 @@
         "addressingMode": "lid"
       },
       "messageTimestamp": 1790361852
+    },
+    {
+      "key": {
+        "remoteJid": "12718086062143@lid",
+        "fromMe": true,
+        "id": "A53BCD7066E563871F25675C6585361C",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1790361852
     }
   ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
-  "accountSyncCounter": 0,
+  "accountSyncCounter": 1,
   "accountSettings": {
     "unarchiveChats": false
   },
