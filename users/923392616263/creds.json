@@ -48,7 +48,18 @@
   },
   "registrationId": 57,
   "advSecretKey": "nNyXmYJPKYPq2a3Q7uYmQdCjI7y3wemif2/78ewvHfw=",
-  "processedHistoryMessages": [],
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "163089085427896@lid",
+        "fromMe": true,
+        "id": "A555670A95BAEF84A1C69D9E9002857C",
+        "participant": "",
+        "addressingMode": "lid"
+      },
+      "messageTimestamp": 1791525044
+    }
+  ],
   "nextPreKeyId": 813,
   "firstUnuploadedPreKeyId": 813,
   "accountSyncCounter": 0,
